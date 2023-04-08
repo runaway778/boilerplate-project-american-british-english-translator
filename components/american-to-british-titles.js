@@ -1,8 +1,8 @@
-module.exports = {
-  'mr.': 'mr',
-  'mrs.': 'mrs',
-  'ms.': 'ms',
-  'mx.': 'mx',
-  'dr.': 'dr',
-  'prof.': 'prof'
-}
+module.exports = [
+  ["Prof.", "Prof"],
+  ["Mrs.", "Mrs"],
+  ["Mr.", "Mr"],
+  ["Ms.", "Ms"],
+  ["Mx.", "Mx"],
+  ["Dr.", "Dr"]
+];
